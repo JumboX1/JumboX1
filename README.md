@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JumboX1
+- I’m interested in: creating my own company and game
+- I’m currently learning: java, python, css, html, c#
